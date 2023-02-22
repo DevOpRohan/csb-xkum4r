@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://devoprohan.github.io/csb-xkum4r/static/js/main.3e08ef03.chunk.js",
-    "main.js.map": "https://devoprohan.github.io/csb-xkum4r/static/js/main.3e08ef03.chunk.js.map",
+    "main.js": "https://devoprohan.github.io/csb-xkum4r/static/js/main.e9af7bc0.chunk.js",
+    "main.js.map": "https://devoprohan.github.io/csb-xkum4r/static/js/main.e9af7bc0.chunk.js.map",
     "runtime-main.js": "https://devoprohan.github.io/csb-xkum4r/static/js/runtime-main.bd194672.js",
     "runtime-main.js.map": "https://devoprohan.github.io/csb-xkum4r/static/js/runtime-main.bd194672.js.map",
-    "static/js/2.ef4f4226.chunk.js": "https://devoprohan.github.io/csb-xkum4r/static/js/2.ef4f4226.chunk.js",
-    "static/js/2.ef4f4226.chunk.js.map": "https://devoprohan.github.io/csb-xkum4r/static/js/2.ef4f4226.chunk.js.map",
+    "static/js/2.b011d168.chunk.js": "https://devoprohan.github.io/csb-xkum4r/static/js/2.b011d168.chunk.js",
+    "static/js/2.b011d168.chunk.js.map": "https://devoprohan.github.io/csb-xkum4r/static/js/2.b011d168.chunk.js.map",
     "index.html": "https://devoprohan.github.io/csb-xkum4r/index.html",
-    "static/js/2.ef4f4226.chunk.js.LICENSE.txt": "https://devoprohan.github.io/csb-xkum4r/static/js/2.ef4f4226.chunk.js.LICENSE.txt"
+    "static/js/2.b011d168.chunk.js.LICENSE.txt": "https://devoprohan.github.io/csb-xkum4r/static/js/2.b011d168.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bd194672.js",
-    "static/js/2.ef4f4226.chunk.js",
-    "static/js/main.3e08ef03.chunk.js"
+    "static/js/2.b011d168.chunk.js",
+    "static/js/main.e9af7bc0.chunk.js"
   ]
 }
